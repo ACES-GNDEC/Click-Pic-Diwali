@@ -1,1 +1,1 @@
-# Click-Pic-Diwali
+# Event_Click-Pic-Diwali
